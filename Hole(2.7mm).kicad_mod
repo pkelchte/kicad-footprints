@@ -1,4 +1,4 @@
-(module "density:Hole(2mm)" locked (layer F.Cu) (tedit 55F9BB46)
+(module "Hole(2.7mm)" locked (layer F.Cu) (tedit 55F9BB46)
   (fp_text reference REF**121 (at 1 -2.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
